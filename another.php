@@ -200,7 +200,7 @@
 
     <section id="galery">
         <div class="col-md-12 text-center">
-            <h1>Galery</h1>
+            <h1>Gallery</h1>
         </div>
         <div class="col-md-12">
             <ul class="sec-image">
