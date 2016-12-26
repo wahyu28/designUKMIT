@@ -6,6 +6,10 @@
     text-align: justify;
 }
 
+.news-image{
+    margin-bottom: 100px;
+}
+
 #latest_news .news-kedua a{
     text-decoration: none;
     font-weight: bold;
@@ -45,4 +49,14 @@
 #latest_news .news-ketiga a, #latest_news .news-ketiga a>i{
     font-weight: bold;
     text-decoration: none;
+}
+
+.up{
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width : 760px) {
+    #latest_news .news-kedua a:after{
+        display: none;
+    }
 }
