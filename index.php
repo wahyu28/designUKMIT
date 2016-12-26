@@ -5,12 +5,16 @@
     <title>Latihan Design UKM IT</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
+    <!-- <link rel="stylesheet" href="css/normalize.css"> -->
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
-    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <!-- <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css" />
+    <!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+    <!-- <link rel="stylesheet" href="css/animate.css"> -->
 </head>
 
 <body>
@@ -201,10 +205,12 @@
     </section>
 
 
-
-    <script type="text/javascript" src="js/jquery.js"></script>
-    <script src="js/waypoints.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <!-- <script type="text/javascript" src="js/jquery.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js"></script>
+    <!-- <script src="js/waypoints.min.js"></script> -->
     <script type="text/javascript" src="js/myJs.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <!-- <script type="text/javascript" src="js/bootstrap.min.js"></script> -->
 </body>
 </html>
