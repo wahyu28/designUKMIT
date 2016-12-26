@@ -1,0 +1,48 @@
+#latest_news figure{
+    margin-bottom: 10px;
+}
+
+#latest_post div.row:last-child{
+    text-align: justify;
+}
+
+#latest_news .news-kedua a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+#latest_news .news-kedua p{
+    font-size: 80%;
+}
+
+#latest_news .news-kedua a:after{
+    display: block;
+    height: 2px;
+    background-color: #188ecc;
+    content: " ";
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#latest_news .atas h1:after{
+    display: block;
+    height: 2px;
+    background-color: #188ecc;
+    content: " ";
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#latest_news .news-ketiga {
+    margin-top: 40px;
+}
+
+#latest_news .news-ketiga a, #latest_news .news-ketiga a>i{
+    font-weight: bold;
+    text-decoration: none;
+}
