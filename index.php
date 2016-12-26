@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="shortcut icon" href="img/LAMBANG_UKM_16.png" type="image/x-icon">
     <title>Latihan Design UKM IT</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -222,7 +223,7 @@
                         <i class="fa fa-envelope"></i>&nbsp;&nbsp;
                         <a href="#">stikomcki@stikomcki.ac.id</a><div style="margin-bottom: 10px"></div>
                         <i class="fa fa-phone"></i>&nbsp;&nbsp;
-                        <a href="tel:+62-274-588688">+62 (274) 588688</a><div style="margin-bottom: 10px"></div>
+                        <a href="#">+62 (274) 588688</a><div style="margin-bottom: 10px"></div>
                         <!-- F: <a href="tel:+62-274-565223">+62(274)565223</a> -->
                     </address>
                 </div>
@@ -235,11 +236,11 @@
                         <div>
                             <ul id="Menu">
                                 <li>
-                                    <a href="http://localhost/ci_web/tentang.html">Sejarah</a></li>
+                                    <a href="#">Sejarah</a></li>
                                 <li>
-                                    <a href="http://localhost/ci_web/tentang.html">Struktur Organisasi</a></li>
+                                    <a href="#">Struktur Organisasi</a></li>
                                 <li>
-                                    <a href="http://localhost/ci_web/profil.html">Visi dan Misi</a></li>
+                                    <a href="#">Visi dan Misi</a></li>
                             </ul>
                         </div>
                     </div>
@@ -250,13 +251,13 @@
                         <div>
                             <ul id="Menu">
                                 <li>
-                                    <a href="http://dka.ugm.ac.id/">Kerja sama Dalam Negeri</a>
+                                    <a href="#">Kerja sama Dalam Negeri</a>
                                 </li>
                                 <li>
-                                    <a href="http://alumni.ugm.ac.id/v3.0/">Alumni</a>
+                                    <a href="#">Alumni</a>
                                 </li>
                                 <li>
-                                    <a href="http://oia.ugm.ac.id">Urusan Internasional</a>
+                                    <a href="#">Urusan Internasional</a>
                                 </li>
                             </ul>
                         </div>
