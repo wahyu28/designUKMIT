@@ -104,6 +104,10 @@ header p{
     margin-bottom: 25px;
 }
 
+.down{
+    margin-bottom: 40px;
+}
+
 #feature{
     background-color: #001725;
     color: #fff;
@@ -199,7 +203,11 @@ header p{
 }
 
 #detail{
-    background-color: #f4f4f4;
+    background-color: #ffffff;
+}
+
+#portofolio{
+    background-color: #F2F2F2;
 }
 
 #portofolio h1{
@@ -223,7 +231,7 @@ header p{
     height: 100%;
     width: 0;
     position: fixed;
-    z-index: 1;
+    z-index: 3;
     top: 0;
     left: 0;
     background-color: #111;
@@ -257,11 +265,13 @@ header p{
     position: fixed;
     top: 0px;
     left: 0px;
-    background-color: #201F1F;
+    z-index: 2;
+    background-color: rgba(14, 15, 19, 0.7);
     padding-left: 10px;
     padding-right: 5px;
     color: #fff;
     display: none;
+    width: 100%;
 }
 
 ul.navigation {
@@ -316,20 +326,45 @@ ul.mini-navigation li a {
     text-decoration: none;
 }
 
+/*footer*/
+footer{
+    background-color: #001725;
+    color: #fff;
+}
+
+footer ul{
+    list-style: none;
+    color: #fff;
+}
+
+footer ul li{
+    color: #fff;
+}
+
+footer ul li a{
+    color: #fff;
+}
+
 
 @media screen and (max-width : 480px) {
+    section#galery{display: none;}
     .head{margin-top: 1000px;}
     #detail .row div:first-child{text-align: left;}
     header h1{font-size: 180%;}
     header p{font-size: 140%;word-spacing: 3px;}
-    #smallnav{display: block;}
-    .navigation{display: none;}
-    .mini-navigation{display: none;}
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
 }
 
 @media screen and (max-width : 991px) {
     #detail .row div:first-child{text-align: left;margin-bottom: 40px;}
     #feature{text-align: center;}
+    #portofolio div.row div.ketiga>div{margin-bottom: 100px;}
+}
+
+@media screen and (max-width : 845px) {
+    #detail .row div:first-child{text-align: center;}
+    #smallnav{display: block;}
+    .navigation{display: none;}
+    .mini-navigation{display: none;}
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
 }
