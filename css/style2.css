@@ -7,7 +7,18 @@
 }
 
 .news-image{
-    margin-bottom: 100px;
+    /*margin-bottom: 100px;*/
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.img-another{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: "360px";
+    height: "200px";
 }
 
 #latest_news .news-kedua a{
@@ -59,4 +70,22 @@
     #latest_news .news-kedua a:after{
         display: none;
     }
+}
+
+section#ukm{
+    background-color: #F2F2F2;padding: 0;
+}
+
+section#ukm .row div.ukm-satu,
+section#ukm .row div.ukm-dua,
+section#ukm .row div.ukm-tiga{
+    padding: 20px; min-height: 800px;
+}
+
+section#ukm .row div.ukm-dua{
+    background-color: #F2F2F2;
+}
+
+section#ukm .row div.ukm-tiga{
+    background-color: #ffffff;
 }

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="in">
 <head>
     <meta charset="UTF-8">
     <link rel="shortcut icon" href="img/LAMBANG_UKM_16.png" type="image/x-icon">

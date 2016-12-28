@@ -50,8 +50,7 @@
                 <div class="col-md-10 col-md-offset-1 text-center head" style="margin-top: 100px" >
                     <h1>UKM IT - STIKOMCKI</h1>
                     <p>#Salam Koding Otak Pusing Jari Keriting</p>
-                    <a href="#" class="btn btn=primary btnloghead btn-lg hidden-sm hidden-xs">Login</a>
-                    <a href="#" class="btn btn-warning btnlearn btn-lg js--section-to-feature hidden-sm hidden-xs">Learn More</a>
+                    <a href="#" class="btn btn=primary btnlearn btn-warning btn-lg hidden-sm hidden-xs">Login</a>
                 </div>
             </div>
         </div>
@@ -66,8 +65,8 @@
             </div>
             <div class="row text-center news-kedua">
                 <div class="col-lg-4 col-md-12 news-kedua-isi">
-                  <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 news-image" style="margin: 0 auto; text-align: center;margin-bottom: 15px">
-                    <img src="img/dummy.png" class="img img-responsive" style="display: block;margin-left: auto;margin-right: auto;" width="360px" height="200px" alt="">
+                  <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 news-image">
+                    <img src="img/dummy.png" class="img img-responsive img-another" alt="dummy">
                   </div>
                   <div class="col-lg-12 col-md-8 col-sm-6 col-xs-12">
                     <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, facilis!</a>
@@ -79,8 +78,8 @@
                 <div class="clearfix visible-sm-block"></div>
                 <div class="visible-xs-block up">News</div>
                 <div class="col-lg-4 col-md-12 news-kedua-isi">
-                  <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 news-image" style="margin: 0 auto; text-align: center;margin-bottom: 15px">
-                    <img src="img/dummy.png" class="img img-responsive" style="display: block;margin-left: auto;margin-right: auto;" width="360px" height="200px" alt="">
+                  <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 news-image">
+                    <img src="img/dummy.png" class="img img-responsive img-another" alt="dummy">
                   </div>
                   <div class="col-lg-12 col-md-8 col-sm-6 col-xs-12">
                     <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, facilis!</a>
@@ -92,7 +91,7 @@
                 <div class="clearfix visible-sm-block"></div>
                 <div class="visible-xs-block up">News</div>
                 <div class="col-lg-4 col-md-12 news-kedua-isi">
-                  <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 news-image" style="margin: 0 auto; text-align: center;margin-bottom: 15px">
+                  <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 news-image">
                     <img src="img/dummy.png" class="img img-responsive" style="display: block;margin-left: auto;margin-right: auto;" width="360px" height="200px" alt="">
                   </div>
                   <div class="col-lg-12 col-md-8 col-sm-6 col-xs-12">
@@ -111,10 +110,10 @@
         </div>
     </section>
 
-    <section id="ukm" style="background-color: #F2F2F2;padding: 0;">
+    <section id="ukm">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-4" style="padding: 20px; min-height: 800px;">
+            <div class="col-md-4 ukm-satu">
                 <div>
                   <h2 style="margin-bottom: 30px">Info UKM</h2>
                   <a href="#" style="font-size: 90%;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, ducimus.</a><br>
@@ -141,7 +140,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4" style="padding: 20px; background-color: #FFFFFF; min-height: 800px;">
+            <div class="col-md-4 ukm-dua">
                 <div>
                   <h2 style="margin-bottom: 30px">Kegiatan UKM</h2>
                   <a href="#" style="font-size: 90%;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, ducimus.</a><br>
@@ -168,7 +167,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4" style="padding: 20px; min-height: 400px;">
+            <div class="col-md-4 ukm-tiga">
                 <div>
                   <h2 style="margin-bottom: 30px">Info UKM</h2>
                   <a href="#" style="font-size: 90%;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, ducimus.</a><br>
